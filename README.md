@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🌱 I’m currently learning at CESI Lyon
+- ⚡ Fun fact: I am looking for an internship for my 2nd year of computer science prep
 
 <!--
 **betasown/betasown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

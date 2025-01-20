@@ -1,6 +1,9 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Beta's README</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -16,12 +19,9 @@
     ul {
       list-style-type: none;
       padding: 0;
-      display: flex;
-      justify-content: center;
-      flex-wrap: wrap;
     }
     li {
-      margin: 15px;
+      margin-bottom: 10px;
     }
     a {
       color: #007bff;
@@ -35,11 +35,6 @@
       margin: 20px 0;
       padding-left: 20px;
       border-left: 4px solid #ccc;
-    }
-    img {
-      width: 40px;
-      height: 40px;
-      object-fit: contain;
     }
   </style>
 </head>
@@ -65,10 +60,11 @@
   <p>Here are some of the technologies and tools I’m familiar with:</p>
 
   <h3>Programming Languages</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C++" alt="C++" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40">
+  <ul>
+    <li>💻 <strong>Python</strong></li>
+    <li>🌐 <strong>JavaScript</strong></li>
+    <li>🔗 <strong>C</strong> / <strong>C++</strong></li>
+  </ul>
 
   <h3>Development Tools</h3>
   <ul>

@@ -5,11 +5,6 @@
 - 💼 Actively seeking an **internship** to level up my skills and contribute to impactful projects.
 - 🎮 Currently working on a **multiplayer Minesweeper game** (because who doesn't love a bit of classic fun?).
 
-## ⚡ Some Stats
-_Not accurate as most of my repos are private_  
-![Stats](https://github-readme-stats.vercel.app/api?username=BetaLouisD&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BetaLouisD&theme=tokyonight)
-
 ## 📖 Knowledges and Learning
 ### 🌱 Current Knowledge:
 ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)

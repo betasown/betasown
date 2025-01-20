@@ -7,21 +7,21 @@
 
 ## 📖 Knowledges and Learning
 ### 🌱 Current Knowledge:
-![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
-![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
-![C](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)
-![C++](https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg)
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="35" height="35">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35">
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="35" height="35">
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35" height="35">
 
 ### ⚡ Some Knowledge:
-![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)
-![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg)
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="35" height="35">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="35" height="35">
 
 ### 📚 What I'm Learning:
-![Godot](https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg)
+<img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="Godot" width="35" height="35">
 
 ### 🔥 What I'd Like to Learn:
-![Rust](https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg)
-![VueJS](https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg)
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="Rust" width="35" height="35">
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="VueJS" width="35" height="35">
 
 ---
 

@@ -40,8 +40,8 @@
       border-left: 4px solid #ccc;
     }
     img {
-      width: 60px;
-      height: 60px;
+      width: 40px;
+      height: 40px;
       object-fit: contain;
     }
   </style>
@@ -71,7 +71,7 @@
   <ul>
     <li><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo"></li>
     <li><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo"></li>
-    <li><img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/C_Logo.svg" alt="C Logo"></li>
+    <li><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/C_Programming_Language.svg" alt="C Logo"></li>
     <li><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C%2B%2B_logo.svg" alt="C++ Logo"></li>
   </ul>
 

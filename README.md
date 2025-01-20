@@ -1,98 +1,42 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Beta's README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 20px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2, h3 {
-      text-align: center;
-    }
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
-    li {
-      margin-bottom: 10px;
-    }
-    a {
-      color: #007bff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    blockquote {
-      font-style: italic;
-      margin: 20px 0;
-      padding-left: 20px;
-      border-left: 4px solid #ccc;
-    }
-  </style>
-</head>
-<body>
+# 👋 Hi there, I'm Beta!
 
-  <h1>👋 Hi there, I'm Beta!</h1>
+![Profile Picture](https://wsrv.nl/?url=avatars.githubusercontent.com/u/83374556%3Fv=4&w=100&h=100&mask=circle)
 
-  <p>🎓 <strong>Student Engineer</strong><br>
-  📍 Currently learning and growing at <strong>CESI Lyon</strong></p>
+## 🚀 About Me
+- 🌱 2nd-year **Computer Science** student, passionate about exploring new technologies and solving real-world problems through code.
+- 💼 Actively seeking an **internship** to level up my skills and contribute to impactful projects.
+- 🎮 Currently working on a **multiplayer Minesweeper game** (because who doesn't love a bit of classic fun?).
 
-  <hr>
+## ⚡ Some Stats
+_Not accurate as most of my repos are private_  
+![Stats](https://github-readme-stats.vercel.app/api?username=BetaLouisD&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BetaLouisD&theme=tokyonight)
 
-  <h2>🚀 About Me</h2>
-  <ul>
-    <li>🌱 <strong>Learning Journey</strong>: I'm a 2nd-year Computer Science student, passionate about exploring new technologies and solving real-world problems through code.</li>
-    <li>💼 <strong>Looking for Opportunities</strong>: Actively seeking an <strong>internship</strong> to level up my skills and contribute to impactful projects.</li>
-    <li>🎮 <strong>Current Project</strong>: Developing a <strong>multiplayer Minesweeper game</strong> (because who doesn't love a bit of classic fun?).</li>
-  </ul>
+## 📖 Knowledges and Learning
+### 🌱 Current Knowledge:
+![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
+![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
+![C](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)
+![C++](https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg)
 
-  <hr>
+### ⚡ Some Knowledge:
+![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)
+![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg)
 
-  <h2>🛠️ Skills & Tools</h2>
-  <p>Here are some of the technologies and tools I’m familiar with:</p>
+### 📚 What I'm Learning:
+![Godot](https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg)
 
-  <h3>Programming Languages</h3>
-  <ul>
-    <li>💻 <strong>Python</strong></li>
-    <li>🌐 <strong>JavaScript</strong></li>
-    <li>🔗 <strong>C</strong> / <strong>C++</strong></li>
-  </ul>
+### 🔥 What I'd Like to Learn:
+![Rust](https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg)
+![VueJS](https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg)
 
-  <h3>Development Tools</h3>
-  <ul>
-    <li>⚙️ <strong>Git & GitHub</strong></li>
-    <li>🛠️ <strong>Visual Studio Code</strong></li>
-  </ul>
+---
 
-  <h3>Other Skills</h3>
-  <ul>
-    <li>🌍 Basic <strong>Web Development</strong></li>
-    <li>🔧 Problem Solving & Debugging</li>
-    <li>👨‍💻 Collaborative Development</li>
-  </ul>
+## 🌐 Let's Connect!
+- 💼 [LinkedIn](https://linkedin.com/in/louis-drouhin)
+- 🐦 [Twitter](https://x.com/BetaLouisD)
+- 📧 [Email Me](mailto:louis.drouhin@proton.me)
 
-  <hr>
+---
 
-  <h2>🌐 Let's Connect!</h2>
-  <ul>
-    <li>💼 <a href="https://linkedin.com/in/louis-drouhin" target="_blank">LinkedIn</a></li>
-    <li>🐦 <a href="https://x.com/BetaLouisD" target="_blank">Twitter</a></li>
-    <li>📧 <a href="mailto:louis.drouhin@proton.me">Email Me</a></li>
-  </ul>
-
-  <hr>
-
-  <blockquote>
-    "Code is like humor. When you have to explain it, it’s bad." – <em>Cory House</em>
-  </blockquote>
-
-</body>
-</html>
+> "Code is like humor. When you have to explain it, it’s bad." – _Cory House_

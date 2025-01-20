@@ -69,10 +69,10 @@
 
   <h3>Programming Languages</h3>
   <ul>
-    <li><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo"></li>
-    <li><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo"></li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"></li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"></li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C++" alt="C++" width="40" height="40"></li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"></li>
-    <li><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C%2B%2B_logo.svg" alt="C++ Logo"></li>
   </ul>
 
   <h3>Development Tools</h3>

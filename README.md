@@ -68,12 +68,10 @@
   <p>Here are some of the technologies and tools I’m familiar with:</p>
 
   <h3>Programming Languages</h3>
-  <ul>
-    <li><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"></li>
-    <li><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"></li>
-    <li><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C++" alt="C++" width="40" height="40"></li>
-    <li><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"></li>
-  </ul>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C++" alt="C++" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40">
 
   <h3>Development Tools</h3>
   <ul>

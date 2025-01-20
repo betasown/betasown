@@ -1,41 +1,107 @@
-# 👋 Hi there, I'm Beta !
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Beta's README</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 20px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1, h2, h3 {
+      text-align: center;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    li {
+      margin: 15px;
+    }
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    blockquote {
+      font-style: italic;
+      margin: 20px 0;
+      padding-left: 20px;
+      border-left: 4px solid #ccc;
+    }
+    img {
+      width: 60px;
+      height: 60px;
+      object-fit: contain;
+    }
+  </style>
+</head>
+<body>
 
-🎓 **Student Engineer**  
-📍 Currently learning and growing at **CESI Lyon**  
+  <h1>👋 Hi there, I'm Beta!</h1>
 
----
+  <p>🎓 <strong>Student Engineer</strong><br>
+  📍 Currently learning and growing at <strong>CESI Lyon</strong></p>
 
-## 🚀 About Me
-- 🌱 **Learning Journey**: I'm a 2nd-year Computer Science student, passionate about exploring new technologies and solving real-world problems through code.  
-- 💼 **Looking for Opportunities**: Actively seeking an **internship** to level up my skills and contribute to impactful projects.  
-- 🎮 **Current Project**: Developing a **multiplayer Minesweeper game** (because who doesn't love a bit of classic fun?).  
+  <hr>
 
----
+  <h2>🚀 About Me</h2>
+  <ul>
+    <li>🌱 <strong>Learning Journey</strong>: I'm a 2nd-year Computer Science student, passionate about exploring new technologies and solving real-world problems through code.</li>
+    <li>💼 <strong>Looking for Opportunities</strong>: Actively seeking an <strong>internship</strong> to level up my skills and contribute to impactful projects.</li>
+    <li>🎮 <strong>Current Project</strong>: Developing a <strong>multiplayer Minesweeper game</strong> (because who doesn't love a bit of classic fun?).</li>
+  </ul>
 
-## 🛠️ Skills & Tools
-Here are some of the technologies and tools I’m familiar with:
+  <hr>
 
-### **Programming Languages**
-- 💻 **Python**  
-- 🌐 **JavaScript**
-- 🔗 **C** / **C++**  
+  <h2>🛠️ Skills & Tools</h2>
+  <p>Here are some of the technologies and tools I’m familiar with:</p>
 
-### **Development Tools**
-- ⚙️ **Git & GitHub**  
-- 🛠️ **Visual Studio Code**  
+  <h3>Programming Languages</h3>
+  <ul>
+    <li><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo"></li>
+    <li><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo"></li>
+    <li><img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/C_Logo.svg" alt="C Logo"></li>
+    <li><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C%2B%2B_logo.svg" alt="C++ Logo"></li>
+  </ul>
 
-### **Other Skills**
-- 🌍 Basic **Web Development**  
-- 🔧 Problem Solving & Debugging  
-- 👨‍💻 Collaborative Development  
+  <h3>Development Tools</h3>
+  <ul>
+    <li>⚙️ <strong>Git & GitHub</strong></li>
+    <li>🛠️ <strong>Visual Studio Code</strong></li>
+  </ul>
 
----
+  <h3>Other Skills</h3>
+  <ul>
+    <li>🌍 Basic <strong>Web Development</strong></li>
+    <li>🔧 Problem Solving & Debugging</li>
+    <li>👨‍💻 Collaborative Development</li>
+  </ul>
 
-## 🌐 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/louis-drouhin)  
-- 🐦 [Twitter](https://x.com/BetaLouisD)  
-- 📧 [Email Me](mailto:louis.drouhin@proton.me)  
+  <hr>
 
----
+  <h2>🌐 Let's Connect!</h2>
+  <ul>
+    <li>💼 <a href="https://linkedin.com/in/louis-drouhin" target="_blank">LinkedIn</a></li>
+    <li>🐦 <a href="https://x.com/BetaLouisD" target="_blank">Twitter</a></li>
+    <li>📧 <a href="mailto:louis.drouhin@proton.me">Email Me</a></li>
+  </ul>
 
-> "Code is like humor. When you have to explain it, it’s bad." – _Cory House_
+  <hr>
+
+  <blockquote>
+    "Code is like humor. When you have to explain it, it’s bad." – <em>Cory House</em>
+  </blockquote>
+
+</body>
+</html>

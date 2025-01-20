@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Beta!
 
-![Profile Picture](https://wsrv.nl/?url=avatars.githubusercontent.com/u/83374556%3Fv=4&w=100&h=100&mask=circle)
-
 ## 🚀 About Me
 - 🌱 2nd-year **Computer Science** student, passionate about exploring new technologies and solving real-world problems through code.
 - 💼 Actively seeking an **internship** to level up my skills and contribute to impactful projects.

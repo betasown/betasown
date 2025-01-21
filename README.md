@@ -29,12 +29,6 @@
 
 ---
 
-## 🌟 Join Our Community!
-Want to connect and learn more about **CES'Event**? Join us on Discord:  
-<iframe src="https://discord.com/widget?id=1329756128460148738&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>  
-
----
-
 ## 🌐 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/louis-drouhin)
 - 🐦 [Twitter](https://x.com/BetaLouisD)

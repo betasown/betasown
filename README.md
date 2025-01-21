@@ -1,5 +1,9 @@
 # 👋 Hi there, I'm Beta!
 
+🎓 **Student Developer**  
+📍 Currently learning and growing at **CESI Lyon**  
+🇫🇷 **French Developer**, passionate about technology and innovation!  
+
 ## 🚀 About Me
 - 🌱 2nd-year **Computer Science** student, passionate about exploring new technologies and solving real-world problems through code.
 - 💼 Actively seeking an **internship** to level up my skills and contribute to impactful projects.

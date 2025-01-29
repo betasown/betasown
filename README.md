@@ -13,19 +13,19 @@
 ## 📖 Knowledges and Learning
 ### 🌱 Current Knowledge:
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="35" height="35">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="35" height="35">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35" height="35">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-plain.svg" alt="TypeScript" width="35" height="35">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="35" height="35">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="35" height="35">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="35" height="35">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="35" height="35">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35">
 </p>
 
 ### ⚡ Some Knowledge:
 <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="35" height="35">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-original.svg" title="NextJS" alt="VueJS" width="35" height="35">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-plain.svg" alt="Html 5" width="35" height="35">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-plain.svg" alt="Css 3" width="35" height="35">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-plain.svg" title="Html 5" alt="Html 5" width="35" height="35">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-plain.svg" title="CSS 3" alt="Css 3" width="35" height="35">
 </p>
 
 ### 📚 What I'm Learning:

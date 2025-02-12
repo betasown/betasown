@@ -41,13 +41,6 @@
 
 ---
 
-## 🌐 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/louis-drouhin)
-- 🐦 [Twitter](https://x.com/BetaLouisD)
-- 📧 [Email Me](mailto:louis.drouhin@proton.me)
-
----
-
 ### 🐍 Snake!
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -55,6 +48,13 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+---
+
+## 🌐 Let's Connect!
+- 💼 [LinkedIn](https://linkedin.com/in/louis-drouhin)
+- 🐦 [Twitter](https://x.com/BetaLouisD)
+- 📧 [Email Me](mailto:louis.drouhin@proton.me)
+- 
 ---
 
 > "Code is like humor. When you have to explain it, it’s bad." – _Cory House_

@@ -48,4 +48,8 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/betasown/betasown/output/snake.svg" alt="Snake animation" />
+
+---
+
 > "Code is like humor. When you have to explain it, it’s bad." – _Cory House_

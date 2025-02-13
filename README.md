@@ -54,7 +54,7 @@
 - 💼 [LinkedIn](https://linkedin.com/in/louis-drouhin)
 - 🐦 [Twitter](https://x.com/BetaLouisD)
 - 📧 [Email Me](mailto:louis.drouhin@proton.me)
-- 
+
 ---
 
 > "Code is like humor. When you have to explain it, it’s bad." – _Cory House_

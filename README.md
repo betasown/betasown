@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Beta!
 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHB3YWYyODdxZGJ0MGdkbHZ4ZW95ZXZmd2loaWVqOHM3ejV1Zms4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiyjj5sffvZ/giphy.gif" width="190" height="220"/>
+
 🎓ㆍ**Student Developer**  
 📍ㆍCurrently learning and growing at **CESI Lyon**  
 🇫🇷 ㆍ**French Developer**, passionate about technology and innovation!  

@@ -12,7 +12,6 @@
 
 ## 🚀 About Me
 - 🌱 2nd-year **Computer Science** student, passionate about exploring new technologies and solving real-world problems through code.
-- 💼 Actively seeking an **internship** to level up my skills and contribute to impactful projects.
 - 🎮 Currently working on a **multiplayer Minesweeper game** (because who doesn't love a bit of classic fun?).
 - 🌟 **Event Organizer**: Proud **co-organizer** of **CES'Event**, a 24-hour charity livestream event on Twitch!  
 

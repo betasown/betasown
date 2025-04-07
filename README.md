@@ -8,7 +8,8 @@
 
 🎓ㆍ**Student Developer**  
 📍ㆍCurrently learning and growing at **CESI Lyon**  
-🇫🇷 ㆍ**French Developer**, passionate about technology and innovation!  
+🇫🇷ㆍ**French Developer**, passionate about technology and innovation!  
+♟️ㆍ**Novice** Chess player on chess.com (850 elo) (if you want to coach me, I'm not saying no)
 
 ## 🚀 About Me
 - 🌱 2nd-year **Computer Science** student, passionate about exploring new technologies and solving real-world problems through code.

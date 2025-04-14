@@ -14,16 +14,13 @@
 </div>
 
 - - -
-
-🎓ㆍ**Student Developer**  
-📍ㆍCurrently learning and growing at **CESI Lyon**  
-🇫🇷ㆍ**French Developer**, passionate about technology and innovation!  
-♟️ㆍ**Novice** Chess player on chess.com (850 elo) (if you want to coach me, I'm not saying no)
-
 ## 🚀 About Me
-- 🌱 2nd-year **Computer Science** student, passionate about exploring new technologies and solving real-world problems through code.
-- 🎮 Currently working on a **multiplayer Minesweeper game** (because who doesn't love a bit of classic fun?).
-- 🌟 **Event Organizer**: Proud **co-organizer** of **CES'Event**, a 24-hour charity livestream event on Twitch!  
+- 🎓ㆍ**Student Developer** :
+    - 2nd-year **Computer Science** student at **CESI Lyon**.
+    - Passionate about exploring new technologies and solving real-world problems through code.
+- 🎮ㆍ Currently working on a **multiplayer Minesweeper game** (because who doesn't love a bit of classic fun?).
+- 🌟ㆍ**Event Organizer**: Proud **co-organizer** of **CES'Event**, a 24-hour charity livestream event on Twitch!
+- ♟️ㆍ**Novice** Chess player on chess.com (850 elo) (if you want to coach me, I'm not saying no)
 
 ## 📖 Knowledges and Learning
 ### 🌱 Current Knowledge:

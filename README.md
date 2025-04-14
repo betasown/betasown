@@ -4,6 +4,15 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHB3YWYyODdxZGJ0MGdkbHZ4ZW95ZXZmd2loaWVqOHM3ejV1Zms4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiyjj5sffvZ/giphy.gif" width="190" height="220"/></center>
 </div> 
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/louis-drouhin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:[louis.drouhin@proton.me]" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</div>
+
 - - -
 
 🎓ㆍ**Student Developer**  
@@ -25,6 +34,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="35" height="35">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original.svg" title="JMySql" alt="MySql" width="35" height="35">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mariadb/mariadb-original.svg" title="mariadb 3" alt="mariadb 3" width="35" height="35">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="35" height="35">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="35" height="35">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-plain.svg" title="Html 5" alt="Html 5" width="35" height="35">

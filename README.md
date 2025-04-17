@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Beta!
+<h1 align="center">👋 Hi there, I'm Beta!</h1>
 
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHB3YWYyODdxZGJ0MGdkbHZ4ZW95ZXZmd2loaWVqOHM3ejV1Zms4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiyjj5sffvZ/giphy.gif" width="190" height="220"/></center>
@@ -36,6 +36,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="35" height="35">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-plain.svg" title="Html 5" alt="Html 5" width="35" height="35">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-plain.svg" title="CSS 3" alt="Css 3" width="35" height="35">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git" alt="git" width="35" height="35"/>
 </p>
 
 ### ⚡ Some Knowledge:

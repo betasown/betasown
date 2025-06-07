@@ -5,9 +5,6 @@
 </div> 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/louis-drouhin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="mailto:[louis.drouhin@proton.me]" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
@@ -63,13 +60,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
----
-
-## 🌐 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/louis-drouhin)
-- 🐦 [Twitter](https://x.com/BetaLouisD)
-- 📧 [Email Me](mailto:louis.drouhin@proton.me)
 
 ---
 

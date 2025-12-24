@@ -33,6 +33,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-plain.svg" title="Html 5" alt="Html 5" width="35" height="35">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-plain.svg" title="CSS 3" alt="Css 3" width="35" height="35">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git" alt="git" width="35" height="35"/>
+  <img src="https://github.com/betasown/betasown/blob/main/microsoft-sharepoint-2019.png?raw=true" title="SharePoint" alt="SharePoint" width="35" height="35">
+  <img src="https://github.com/betasown/betasown/blob/main/510Y001wvGL.png?raw=true" title="Intune" alt="Intune" width="35" height="35">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="35" height="35">
 </p>
 
 ### ⚡ Some Knowledge:
@@ -47,8 +50,7 @@
 ### 📚 What I'm Learning:
 <p>
   <img src="https://github.com/betasown/betasown/blob/main/67c6e21591b4fed521d5deaf_660d6e4873c62fb68976b4d8_chess.com-logo-carre.png?raw=true" title="Chess.com" alt="PHP" width="35" height="35">
-  <img src="https://github.com/betasown/betasown/blob/main/microsoft-sharepoint-2019.png?raw=true" title="SharePoint" alt="SharePoint" width="35" height="35">
-  <img src="https://github.com/betasown/betasown/blob/main/510Y001wvGL.png?raw=true" title="Intune" alt="Intune" width="35" height="35">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="35" height="35">
 </p>
 
 ---

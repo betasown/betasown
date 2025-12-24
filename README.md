@@ -13,9 +13,9 @@
 - - -
 ## 🚀 About Me
 - 🎓ㆍ**Student Developer** :
-    - 2nd-year **Computer Science** student at **CESI Lyon**.
+    - **Computer Science** student at **CESI Lyon**.
     - Passionate about exploring new technologies and solving real-world problems through code.
-- 🎮ㆍ Currently working on a **multiplayer Minesweeper game** (because who doesn't love a bit of classic fun?).
+- 🎮ㆍ Currently working on a **focusguide** hhtps://focusguide.fr
 - 🌟ㆍ**Event Organizer**: Proud **co-organizer** of **CES'Event**, a 24-hour charity livestream event on Twitch!
 - ♟️ㆍ**Novice** Chess player on chess.com (850 elo) (if you want to coach me, I'm not saying no)
 

@@ -1,4 +1,5 @@
-<h1 align="center">👋 Hi there, I'm Beta!</h1>
+<h1 align="center">Hi 👋, I'm Beta</h1>
+<h3 align="center">Student at CESI, Computer Science</h3>
 
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHB3YWYyODdxZGJ0MGdkbHZ4ZW95ZXZmd2loaWVqOHM3ejV1Zms4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiyjj5sffvZ/giphy.gif" width="190" height="220"/></center>
@@ -12,10 +13,8 @@
 
 - - -
 ## 🚀 About Me
-- 🎓ㆍ**Student Developer** :
-    - **Computer Science** student at **CESI Lyon**.
-    - Passionate about exploring new technologies and solving real-world problems through code.
-- 🎮ㆍ Currently working on a **focusguide** https://focusguide.fr
+- 🎮ㆍ Currently working on **focusguide** https://focusguide.fr
+- 👨‍💻ㆍ All of my projects are available at [https://beta-dev.me](https://beta-dev.me) 
 - 🌟ㆍ**Event Organizer**: Proud **co-organizer** of **CES'Event**, a 24-hour charity livestream event on Twitch!
 - ♟️ㆍ**Novice** Chess player on chess.com (850 elo) (if you want to coach me, I'm not saying no)
 
